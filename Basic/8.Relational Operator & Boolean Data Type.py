@@ -1,0 +1,8 @@
+print(30>20)
+print(30>=20)
+print(30<20)
+print(30<=20)
+print(20==20)
+print(30!=20)
+print("Rimon"=="Rimon")
+print("Rimon"=="RIMON")
